@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40625587281",
+    "project_id": "cronojob-c2a20",
+    "storage_bucket": "cronojob-c2a20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40625587281:android:c7a7ee01baa2b04b1a6470",
+        "android_client_info": {
+          "package_name": "com.example.cronojobofficial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyCPTqmZx3sEJUk8UKd7CJPonq8l3VTiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
